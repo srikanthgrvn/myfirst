@@ -1,2 +1,2 @@
 # myfirst
-bluesilica technogo
+bluesilica technology
